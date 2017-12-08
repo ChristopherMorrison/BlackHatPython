@@ -2,6 +2,12 @@
 Lecture slides and samples for/from the book Black Hat Python, written by Justin Seitz.
 Slides are being written in Google slides and then downloaded so code may appear first
 
+## Chapters
+0. [Introduction](https://GitHub.com/ChristopherMorrison/BlackHatPython//tree/master/00%20Introduction)
+1. [Setting Up Your Python Environment](https://github.com/ChristopherMorrison/BlackHatPython/tree/master/01%20Setting%20Up%20Your%20Python%20Environment)
+2. [The Network: Basics](https://github.com/ChristopherMorrison/BlackHatPython/tree/master/02%20The%20Network:%20Basics)
+
+
 ## Me
 I am Christopher Morrison. I wrote, or tried to write, these slides during the MLH hack day 2017. If you think something in this presentation could be made better then fork it and send a merge request or send me a message.
 
