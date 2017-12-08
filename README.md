@@ -1,4 +1,4 @@
-# BlackHatPython
+# Black Hat Python
 Lecture slides and samples for/from the book Black Hat Python, written by Justin Seitz.
 Slides are being written in Google slides and then downloaded so code may appear first
 
